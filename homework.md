@@ -10,3 +10,4 @@ Complete VPC Section 10. ALL OF IT.
 Students failed to delvier previous homework.  This is Warning #1.
 
 This week: Screenshot entire TF deployment process. 
+And https://github.com/BalericaAI/SEIR-1/blob/main/weekly_lessons/weekb/weekb_homework.txt
