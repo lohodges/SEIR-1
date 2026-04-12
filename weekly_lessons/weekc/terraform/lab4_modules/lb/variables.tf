@@ -9,3 +9,7 @@ variable "region" {
 variable "instance_group" {
   type = string
 }
+
+variable "domain_name" {
+  type = string
+}
